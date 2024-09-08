@@ -50,7 +50,7 @@ const Navbar = () => {
 
     {/* Mobile menu */}
     <div className={`md:hidden ${isOpen ? 'block' : 'hidden'}`}>
-      <div className="flex flex-col items-center font-medium text-slate-100 space-y-4 mt-2 pb-2">
+      <div className="flex flex-col items-center font-medium text-slate-100 space-y-4 mt-2 pb-6">
         <NavLink to="/" >
           <p className="hover:text-green-600 transition-transform duration-300 cursor-pointer">Home</p>
         </NavLink>

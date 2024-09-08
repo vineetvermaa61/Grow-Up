@@ -84,7 +84,7 @@ export default function App() {
             <h6
               className="mb-4 text-green-700 flex items-center justify-center font-semibold uppercase md:justify-start">
               
-              <img className="mr-3 w-20" src='./fevicon.png '/>
+              <img className="mr-3 w-20" src='/fevicon.png'/>
               
             </h6>
             <p>

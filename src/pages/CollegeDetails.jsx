@@ -37,10 +37,10 @@ const CollegeDetails = () => {
   }
 
   return (
-    <div className="mt-14">
+    <div className="mt-14 xl:mx-10">
 
 
-<div className="college-details container mx-auto my-10 p-8 bg-white shadow-2xl rounded-lg relative">
+<div className="college-details container mx-auto sm:my-10 my-0 p-8 bg-white shadow-2xl rounded-lg relative">
       {/* Header Section with College Image and Name */}
 
 
