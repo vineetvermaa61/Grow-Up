@@ -8,7 +8,7 @@ import Details from './components/Details';
 
 const Home = () => {
   return (
-    <div>
+    <div className='w-full' >
         <LandingPage/>
 
         <Features/>

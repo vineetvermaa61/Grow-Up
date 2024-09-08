@@ -38,7 +38,7 @@ const LandingPage = () => {
     <img
       src="./home.png"
       alt="Leafs"
-      className="w-full h-48 sm:h-full md:h-screen object-contain xl:ml-32 mt-20 md:mt-8"
+      className="w-full h-48 sm:h-full md:h-screen object-contain xl:pl-32 mt-20 md:mt-8"
     />
   </div>
 </div>
