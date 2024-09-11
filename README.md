@@ -11,5 +11,6 @@ GrowUp simplifies the college admission process with personalized counseling and
 ![Screenshot 2024-09-08 125521](https://github.com/user-attachments/assets/78558bbe-d403-4aaa-bdb5-018351d797bf)
 ![Screenshot 2024-09-08 125604](https://github.com/user-attachments/assets/347677b2-ee50-47ad-bd9e-1863a4a77352)
 ![Screenshot 2024-09-08 125624](https://github.com/user-attachments/assets/99095e4d-a11a-417d-a730-7d158d072697)
+![Screenshot 2024-09-12 005110](https://github.com/user-attachments/assets/935b3c1a-1887-4b90-9799-19f8409c18d6)
 
 
